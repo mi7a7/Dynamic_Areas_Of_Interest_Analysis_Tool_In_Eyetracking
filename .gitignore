@@ -1,0 +1,14 @@
+venv/
+.env/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.vscode/
+.idea/
+workspace/model/
+workspace/output/
+workspace/detections_output
+workspace/result
+runs/
+*.pt
