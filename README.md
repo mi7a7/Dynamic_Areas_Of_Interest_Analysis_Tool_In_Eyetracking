@@ -1,4 +1,4 @@
-# Dynamic areas Of Interest Analysis Tool In Eyetracking 
+# Dynamic Areas Of Interest Analysis Tool In Eyetracking 
 ## Narzędzie do analizy dynamicznego obszaru zainteresowania w technologii śledzenia ruchu gałek ocznych
 
 ### About
